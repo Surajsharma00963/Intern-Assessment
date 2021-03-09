@@ -1,0 +1,102 @@
+.HG{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: 100%;
+    background: transparent linear-gradient(121deg, #3D4151 0%, #1C202C 38%, #141824 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.path-865{
+    width:auto;
+    background: transparent radial-gradient(closest-side at 39% 79%, #3D065F 0%, #330550 9%, #1D022D 35%, #0D0114 60%, #030005 82%, #000000 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: color-dodge;
+    opacity: 1;
+}
+.rectange-1078{
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 1077px;
+    background: #FF5C63 0% 0% no-repeat padding-box;
+    mix-blend-mode: hue;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.text-header{
+    width: 761px;
+    height: 299px;
+    text-align: left;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.rectange-1{
+    top: 961px;
+    left: 1048px;
+    width:100%;
+    height: 100%;
+    background: #FF5C63 0% 0% no-repeat padding-box;
+    box-shadow: 10px -10px 40px #FF5C6333;
+    border-radius: 0px 20px 0px 0px;
+    opacity: 1;
+}
+.border-lt{
+    border-right:1px solid;
+    height:20px;
+    border-color: gray;
+    padding: 20px 0 ;
+}
+.rectange-kit{
+    top: 2704px;
+    left: 0.5px;
+    width: 100%;
+    height: 1447px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.path-9364{
+    top: 2705px;
+    left: -3.060546875px;
+    width: 100%;
+    height: 100%;
+    background: transparent linear-gradient(204deg, #F5F5F5 0%, #E5E5E5 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.HG-2{
+    width: 100%;
+    margin-left: -1px;
+    height: 993px;
+    background: #110404 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.rectange-1081{
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 993px;
+    background: #FF5C63 0% 0% no-repeat padding-box;
+    mix-blend-mode: hue;
+    border: 0.1x solid #707070;
+    opacity: 1;
+}
+ .rectange-1087{
+    background: transparent linear-gradient(28deg, #FF1E1E 0%, #DD262F 100%) 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+ }
+ .rectange-1084{
+    background: #FCFCFC 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+ }
+ .rectange-1086{
+    background: #FCFCFC 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+ }
+ .path-9335{
+    background: transparent url('img/Path 9335.png') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 30px 60px #00000029;
+    opacity: 1;
+ }
